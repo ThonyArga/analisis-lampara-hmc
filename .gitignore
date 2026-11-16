@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Proteger datos reales de la empresa
+Organized Data Sheet*.xlsx
+*.csv
+*.xls
